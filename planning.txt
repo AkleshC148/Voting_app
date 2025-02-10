@@ -1,0 +1,39 @@
+votting application
+a functionality where voters can vote their chosen candidates
+
+models
+routes
+voting app functionality
+1.user sign in
+2.list of candidates should be shown to the voters
+3.vote one of the candidate
+4.one vote for a person
+5. a route that shows the list of candidates and their live vote counts sorted by their vote counts
+6. aadhar number and password for verification
+7. candidate model
+8. voter model
+9. admin handling the entries of candidates
+10. admin cant vote
+
+--------------------------------------------------------------------
+
+routes
+
+1. candidate endpoint
+2. user authentication
+           signup, login
+3. voting endpoint 
+           getting the list of candidates and vote counts
+           voting any one candidate
+4. vote counts
+           getting the live vote counts
+5. user profile
+           get the user details
+           update any user details
+6. admin
+      posting/creating a new candidate
+      update existing candidate
+      delete any candidate
+
+
+-----------------------------------------------------------------
